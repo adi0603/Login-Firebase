@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loog</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB6LTfpL7tXJJ8p4Qcaa5NTtw4Sp0Ft21E</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Login">Login</string>
+</resources>
